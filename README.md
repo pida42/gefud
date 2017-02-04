@@ -1,11 +1,8 @@
 ## Gefud - Generator for Entities, Factories and their Usecases in Ddd
 
-**Current Build Status**
-[![Build Status](https://drone.io/github.com/gefud/gefud/status.png)](https://drone.io/github.com/gefud/gefud/latest)
-
 ##Getting started
 
-1. Clone this repo `git clone git@guthub.com:gefud/gefud.git`
+1. Clone this repo `git clone git@github.com:pida42/gefud.git`
 2. Run [composer](http://getcomposer.org/) install
 
 ##Running tests
